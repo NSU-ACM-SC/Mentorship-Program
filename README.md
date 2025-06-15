@@ -1,6 +1,5 @@
 # NSU ACM SC Mentorship Program – Summer 2025
-Welcome to the official GitHub repository for the **Academic Mentorship Program (Summer 2025)** organized by the **NSU ACM Student Chapter**. This repository hosts all academic content, resources, and collaborative projects related to the NSU ACM Student Chapter Academic Mentorship Program – Summer 2025.
-
+Welcome to the official GitHub repository for the **Academic Mentorship Program - Summer 2025** organized by the **NSU ACM Student Chapter**. This repository hosts course guides, session materials, coding sessions, and research collaborations led by student mentors.
 
 
 ## 🌟 About the Program
