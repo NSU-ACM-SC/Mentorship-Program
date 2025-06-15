@@ -1,7 +1,5 @@
-# 📘 NSU ACM Student Chapter Mentorship Program – Summer 2025
+# NSU ACM SC Mentorship Program – Summer 2025
 Welcome to the official GitHub repository for the **Academic Mentorship Program (Summer 2025)** organized by the **NSU ACM Student Chapter**. This repository hosts all academic content, resources, and collaborative projects related to the NSU ACM Student Chapter Academic Mentorship Program – Summer 2025.
-
-Designed for mentors and mentees to share knowledge, lead sessions, conduct workshops, and build an academic GitHub portfolio, this repo serves as the central hub for one of NSU ACM SC’s most prestigious initiatives.
 
 ---
 
@@ -67,6 +65,7 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 - EEE211: Digital Logic Design 
 
 ### 📐 Mathematics (MAT)
+- MAT116: Pre-Calclu
 - MAT120: Calculus-I  
 - MAT130: Calculus-II  
 - MAT250: Calculus-III  
@@ -77,7 +76,7 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 - PHY107: Physics I  
 - PHY108: Physics II  
 
----
+
 
 ## 📝 Recruitment Process
 
@@ -91,7 +90,7 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 📍 Tentative venue: [Classroom to be announced]  
 📍 Focus: Teaching passion, technical explanation, scenario handling
 
----
+
 
 ## 📂 Repository Structure
 
@@ -118,13 +117,10 @@ NSU-ACM-Mentorship-Summer2025/
     └── Papers_2025/
 ````
 
----
 
 ## 🤝 Connect with Us
 
-📧 **Email:** [nsuacm.rnd@gmail.com](mailto:nsuacm.rnd@gmail.com)
-🌐 **Facebook Page:** [NSU ACM Student Chapter](https://facebook.com/nsuacmsc)
-🔗 **Discord/WhatsApp:** Invites shared post-application
+📧 **Email:** [nsuacm.rnd@gmail.com](mailto:nsuacm.rnd@gmail.com) </br>
+🌐 **Facebook Page:** [NSU ACM Student Chapter](https://facebook.com/nsuacmsc)</br>
+🔗 **Discord/WhatsApp:** Invites shared post-application</br>
 🏫 **Prepared by:** R\&D Group, NSU ACM Student Chapter
-
----
