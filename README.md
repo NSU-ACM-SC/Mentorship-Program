@@ -1,7 +1,7 @@
 # NSU ACM SC Mentorship Program – Summer 2025
 Welcome to the official GitHub repository for the **Academic Mentorship Program (Summer 2025)** organized by the **NSU ACM Student Chapter**. This repository hosts all academic content, resources, and collaborative projects related to the NSU ACM Student Chapter Academic Mentorship Program – Summer 2025.
 
----
+
 
 ## 🌟 About the Program
 
@@ -9,7 +9,7 @@ The **NSU ACM SC Academic Mentorship Program** is designed to empower passionate
 
 Mentors will conduct hands-on sessions, lead academic groups, contribute to GitHub-based repositories, and work alongside faculty on real research and development projects.
 
----
+
 
 ## 🎯 Objectives
 
@@ -18,7 +18,7 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 - Encourage collaborative coding and research projects
 - Support NSU ACM teams for competitions like **Hack NSU**, **Math Olympiads**, and more
 
----
+
 
 ## 🧑‍🏫 Mentor Responsibilities
 
@@ -29,7 +29,7 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 - Mentor **competitive teams** for national/international events
 - Collaborate with faculty on **research/publication**
 
----
+
 
 ## ✅ Eligibility Criteria
 
@@ -38,7 +38,7 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 - No CGPA barrier
 - Must be willing to teach courses listed below
 
----
+
 
 ## 📚 Offered Courses (Tentative)
 
@@ -75,7 +75,6 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 ### 🌌 Physics (PHY)
 - PHY107: Physics I  
 - PHY108: Physics II  
-
 
 
 ## 📝 Recruitment Process
