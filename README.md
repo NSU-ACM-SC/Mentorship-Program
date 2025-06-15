@@ -65,7 +65,7 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 - EEE211: Digital Logic Design 
 
 ### 📐 Mathematics (MAT)
-- MAT116: Pre-Calclu
+- MAT116: Pre-Calculus
 - MAT120: Calculus-I  
 - MAT130: Calculus-II  
 - MAT250: Calculus-III  
