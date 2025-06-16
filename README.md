@@ -11,16 +11,16 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 ---
 
 
-## 🎯 Objectives
+## Objectives
 
 - Enhance peer-to-peer learning at NSU
 - Provide a platform for TAs, RAs, and academic enthusiasts to share knowledge
 - Encourage collaborative coding and research projects
 - Support NSU ACM teams for competitions like **Hack NSU**, **Math Olympiads**, and more
 
+---
 
-
-## 🧑‍🏫 Mentor Responsibilities
+## Mentor Responsibilities
 
 - Conduct **2 academic sessions/week** (online/offline)
 - Lead **GitHub-based coding & theoretical sessions**
@@ -29,20 +29,20 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 - Mentor **competitive teams** for national/international events
 - Collaborate with faculty on **research/publication**
 
+---
 
-
-## ✅ Eligibility Criteria
+## Eligibility Criteria
 
 - Must be an active member of **NSU ACM Student Chapter**
 - Open to all academic teams/groups, especially **TAs**, **RAs**, and **Probationary Members**
 - No CGPA barrier
 - Must be willing to teach courses listed below
 
+---
 
+## Offered Course List - Summer 2025
 
-## 📚 Offered Courses (Tentative)
-
-### 🖥️ Computer Science (CSE)
+### Computer Science (CSE)
 - CSE115: Programming Language I  
 - CSE173: Discrete Mathematics  
 - CSE215: Programming Language II  
@@ -58,13 +58,13 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 - CSE445: Machine Learning  
 - CSE465: Pattern Recognition & Neural Network  
 
-### ⚡ Electrical & Electronics (EEE)
+### Electrical & Electronics (EEE)
 - EEE141: Electrical Circuits I  
 - EEE154: Engineering Drawing  
 - EEE111: Analog Electronics-I
 - EEE211: Digital Logic Design 
 
-### 📐 Mathematics (MAT)
+### Mathematics (MAT)
 - MAT116: Pre-Calculus
 - MAT120: Calculus-I  
 - MAT130: Calculus-II  
@@ -72,12 +72,13 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 - MAT350: Engineering Mathematics  
 - MAT361: Probability and Statistics  
 
-### 🌌 Physics (PHY)
+### Physics (PHY)
 - PHY107: Physics I  
 - PHY108: Physics II  
 
+---
 
-## 📝 Recruitment Process
+## Recruitment Process
 
 ### Phase 1 – Application  
 📌 Apply via this form: [Google Form](https://forms.gle/nUgRx5yAw4g82h7b6)  
@@ -90,8 +91,9 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 📍 Focus: Teaching passion, technical explanation, scenario handling
 
 
+---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 NSU-ACM-Mentorship-Summer2025/
@@ -115,11 +117,12 @@ NSU-ACM-Mentorship-Summer2025/
 └── Research_Collabs/
     └── Papers_2025/
 ````
+---
 
-
-## 🤝 Connect with Us
+## Connect with Us
 
 📧 **Email:** [acm.sc@northsouth.edu](mailto:acm.sc@northsouth.edu) </br>
 🌐 **Facebook Page:** [NSU ACM Student Chapter](https://facebook.com/nsuacmsc)</br>
 🔗 **Discord/WhatsApp:** Invites shared post-application</br>
 🏫 **Prepared by:** Research \& Development Group, NSU ACM Student Chapter
+---
