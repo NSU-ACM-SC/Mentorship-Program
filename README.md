@@ -123,9 +123,9 @@ NSU-ACM-Mentorship-Summer2025/
 
 ## Connect with Us
 
-* Email:[acm.sc@northsouth.edu](mailto:acm.sc@northsouth.edu) </br>
+* Email: [acm.sc@northsouth.edu](mailto:acm.sc@northsouth.edu) </br>
 * Facebook Page: [NSU ACM Student Chapter](https://facebook.com/nsuacmsc)<br>
-* Discord/WhatsApp: Invites shared post-application</br>
+* Discord: Invites shared post-application</br>
 * Prepared by: Research \& Development Group, NSU ACM Student Chapter
 
 ---
