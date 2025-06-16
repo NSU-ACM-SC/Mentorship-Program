@@ -8,6 +8,7 @@ The **NSU ACM SC Academic Mentorship Program** is designed to empower passionate
 
 Mentors will conduct hands-on sessions, lead academic groups, contribute to GitHub-based repositories, and work alongside faculty on real research and development projects.
 
+---
 
 
 ## 🎯 Objectives
