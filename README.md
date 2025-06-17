@@ -50,7 +50,7 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 - CSE215: Programming Language II  
 - CSE225: Data Structures and Algorithms  
 - CSE231: Digital Logic Design  
-- CSE311: Microprocessor Interfacing & Embedded System  
+- CSE311: Database Systems 
 - CSE327: Software Engineering  
 - CSE332: Computer Organization and Architecture  
 - CSE331: Microprocessor Interfacing & Embedded System  
@@ -92,34 +92,7 @@ Mentors will conduct hands-on sessions, lead academic groups, contribute to GitH
 📍 Tentative venue: [Classroom to be announced]  
 📍 Focus: Teaching passion, technical explanation, scenario handling
 
-
----
-
-## Repository Structure
-
-```bash
-NSU-ACM-Mentorship-Summer2025/
-│
-├── README.md
-├── Mentor_Resources/
-│   ├── Slides/
-│   ├── Problem_Sets/
-│   └── Workshop_Materials/
-│
-├── Course_Guides/
-│   ├── CSE115/
-│   ├── CSE173/
-│   └── ...
-│
-├── GitHub_Sessions/
-│   ├── Week1/
-│   ├── Week2/
-│   └── ...
-│
-└── Research_Collabs/
-    └── Papers_2025/
-````
----
+--- 
 
 ## Connect with Us
 
